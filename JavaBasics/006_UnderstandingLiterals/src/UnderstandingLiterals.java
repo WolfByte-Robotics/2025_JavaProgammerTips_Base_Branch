@@ -2,7 +2,7 @@
 
 public class UnderstandingLiterals {
 
-	public static void String(String [] args)
+	public static void main(String [] args)
 	{
 		/* Literals correspond to a specific value in your java program
 		 * If you type 7 (the literal number 7) in Java, Java will treat
@@ -31,9 +31,8 @@ public class UnderstandingLiterals {
 		double stellar_distance = 383989388333433f;
 		
 		char my_char = 'a';
-		char unicode_unialpha = 'a';
+		char unicode_unialpha = '\u0041';
 		
-		System.out.println("Test" + unicode_unialpha);
 		
 		String city = "Chicago";
 		String comma = ", ";
