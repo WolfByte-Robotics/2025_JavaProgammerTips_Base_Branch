@@ -81,6 +81,11 @@ public class UnderstandingLiterals {
 		String location = city + comma + state;   // You may use the concatenation operators, +, to join two strings together
 		String address = location + " " + ", 60607";
 		
+		/* The primative type boolean is used to store true or false.
+		 * The boollean type requires only one bit and you cannot cast a boolean to any other type  
+		 */
+		boolean first_time = false;
+		boolean last_time = true;
 	}
 		
 }
