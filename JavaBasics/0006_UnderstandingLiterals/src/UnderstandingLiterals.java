@@ -70,8 +70,7 @@ public class UnderstandingLiterals {
 		 *  You you represent characters literials using a single quote
 		 */
 		char my_char = 'a';  
-		char unicode_unialpha = '\u0041';  // You can represent a character using "\u" escape sequece follow by two bytes
-		
+		char unicode_unialpha = '\u0041';  // You can represent a character using escape sequence follow by two bytes
 		
 		/* A String literal is a combination of characters enclosed by double quotes.
 		 * To declare a string use the String type.
