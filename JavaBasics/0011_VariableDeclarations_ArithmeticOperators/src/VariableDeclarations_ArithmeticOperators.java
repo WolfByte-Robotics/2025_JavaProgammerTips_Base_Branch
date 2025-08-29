@@ -1,7 +1,7 @@
  /*******************************************************
   *  
   *  Author: Mr. Flowers
-  *  Description: How to Cast Primitive Types
+  *  Description: Arithmetic Operations in Variable Declarations
   *  Date: 8.28.2025
   * 
   ******************************************************/
