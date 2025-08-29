@@ -86,6 +86,7 @@ public class UnderstandingLiterals {
 		 */
 		boolean first_time = false;
 		boolean last_time = true;
+
 	}
 		
 }
