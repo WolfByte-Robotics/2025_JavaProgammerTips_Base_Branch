@@ -14,6 +14,12 @@ public class VariableDeclarations_ArithmeticOperators {
 		// you may use an arithmetic expression as an assignment
 		float circumference = 2f * 3.14f * 3.4f;
 		
-		System.out.println("The circumference is " + circumference);	
+		System.out.println("The circumference is " + circumference);
+		
+		// In addition to literal values in expressions, you can also use
+		// variables when initializing another variable
+		double total = circumference = 2.3f;
+		
+		System.out.println("The total is " + total);
 	}
 }
