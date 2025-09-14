@@ -7,7 +7,7 @@
  * This program demonstrates how to use OpenCV in Java to read and analyze an image file. It first 
  * loads the OpenCV native library to access its image processing functions. The program then attempts 
  * to load a specified image from disk and checks if the image was successfully opened. If successful, 
- * it prints the image’s dimensions (width and height in pixels); otherwise, it displays an error message.
+ * it prints the image’s dimensions (width and height inpixels); otherwise, it displays an error message.
  *
  * In short: this program checks if an image exists and then outputs its resolution (width × height).
  *
